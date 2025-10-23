@@ -2,7 +2,7 @@ TAILSCALE_AUTH_KEY
 
 
 
-name: RDP
+name:RDP
 
 on:
   workflow_dispatch:
